@@ -1,0 +1,15 @@
+{
+  "name": "Minimal Milk",
+  "manifest_version": 2,
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "theme_frame": "ff.png"
+    },
+    "colors": {
+      "frame": "rgba(229, 230, 232, 1)",
+      "tab_background_text": "rgba(0, 0, 0, 1)",
+      "tab_line": "#b1b8bd"
+    }
+  }
+}
