@@ -1,7 +1,7 @@
 {
   "name": "Minimal Milk",
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.0.1",
   "theme": {
     "images": {
       "theme_frame": "ff.png"
